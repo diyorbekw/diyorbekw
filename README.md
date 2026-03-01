@@ -1,6 +1,14 @@
 # 💫 About Me:
 
-I am a passionate and detail-oriented backend developer with strong experience in building scalable and efficient web applications. My core expertise lies in Python and modern backend technologies.`<br>`I have hands-on experience with Django, Django Rest Framework (DRF), and FastAPI, developing RESTful APIs and high-performance backend systems. I also work confidently with Aiogram for Telegram bot development, creating reliable and scalable bot solutions.`<br>`My technical toolkit includes: Python, Django, Django Rest Framework (DRF), FastAPI, Aiogram, Docker, Git.`<br>`I focus on writing clean, maintainable, and well-structured code. I enjoy designing system architecture, optimizing performance, and solving complex backend problems.`<br>`I am always eager to learn new technologies and improve my skills to build better and more efficient software solutions.
+I am a passionate and detail-oriented backend developer with strong experience in building scalable and efficient web applications. My core expertise lies in Python and modern backend technologies.
+
+I have hands-on experience with Django, Django Rest Framework (DRF), and FastAPI, developing RESTful APIs and high-performance backend systems. I also work confidently with Aiogram for Telegram bot development, creating reliable and scalable bot solutions.
+
+My technical toolkit includes: Python, Django, Django Rest Framework (DRF), FastAPI, Aiogram, Docker, Git.
+
+I focus on writing clean, maintainable, and well-structured code. I enjoy designing system architecture, optimizing performance, and solving complex backend problems.
+
+I am always eager to learn new technologies and improve my skills to build better and more efficient software solutions.
 
 ## 🌐 Socials:
 
